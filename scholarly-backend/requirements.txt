@@ -8,8 +8,4 @@ passlib[bcrypt]==1.7.4
 python-dotenv==1.0.0
 email-validator==2.1.0
 aiofiles==23.2.1
-aiosmtplib==2.0.2
-beautifulsoup4==4.12.2
-httpx==0.25.1
-pydantic[email]==2.5.0
-pydantic-settings==2.1.0
+cloudinary==1.33.0
